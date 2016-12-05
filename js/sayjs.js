@@ -3,8 +3,8 @@ var x = 1;
 var y = 1;
 //var z = x + y;
 var z = x - y;
-//if(z == 2){	
-//	document.write(x + " + " + y + " = " + z);
-//}else{
-//	document.write(x + " + " + y + " = " + z);
-//}
+if(z == 2){	
+	document.write(x + " + " + y + " = " + z);
+}else{
+	document.write(x + " + " + y + " = " + z);
+}
